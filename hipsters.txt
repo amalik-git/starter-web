@@ -1,3 +1,6 @@
 hipster.txt
 
 Hello Hipster
+
+
+Modifying it to see --follow flag
