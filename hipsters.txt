@@ -1,6 +1,6 @@
 hipster.txt
 
 Hello Hipster
-
+# Adding Comment Line 1.
 
 Modifying it to see --follow flag
