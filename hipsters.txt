@@ -3,5 +3,6 @@ hipster.txt
 Hello Hipster
 # Adding Comment Line 1.
 # Adding Comment Line 2.
+# Adding Comment Line 3.
 
 Modifying it to see --follow flag
