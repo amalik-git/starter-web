@@ -5,5 +5,6 @@ Hello Hipster
 # Adding Comment Line 2.
 # Adding Comment Line 3.
 # Adding Comment Line 4.
+# Adding Comment Line 5.
 
 Modifying it to see --follow flag
